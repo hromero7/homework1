@@ -1,0 +1,82 @@
+#name {
+    padding: 20px;
+    width: 300px;
+    background-color: #4aaaa5; 
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 85px;
+    bottom: 21px; 
+}
+
+#header {
+    background-color: #fff;
+    border-color: #ccc;
+    width: 100%; 
+    
+
+}
+
+#nav {
+    float: right;
+    position: relative;
+    bottom: 75px;
+    left: -20px; 
+}
+
+#main{
+width: 960px;
+padding: 20px; 
+margin-top: 20px; 
+background-color: #fff;
+border-color: #ddd;
+float: right; 
+line-height: 25px;
+}
+
+#footer {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 10px;
+    position: fixed;
+    bottom: 0;
+    left: -10px; 
+    width: 100%; 
+    
+    
+}
+
+h1,h2,h3 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-image: url("../images/positive.png");
+
+}
+
+a {
+    text-decoration: none;
+    color: #777; 
+    
+}
+
+hr {
+    width: 960px;  
+}
+
+#profilePic {
+    float: left;
+    padding: 15px; 
+    margin-left: 0;
+    margin-right: 0;
+}
