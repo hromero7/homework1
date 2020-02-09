@@ -193,3 +193,7 @@ hr {
     left: -10px; 
     width: 100%;    
 }
+
+a:hover {
+    color: skyblue; 
+}
